@@ -1,0 +1,28 @@
+name: The Smartworkplace
+favicon: null
+layout_spectrum: 0.30754330777563155
+typography_spectrum: 0.8405376202426851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09765899158082902
+  lightness: 0.7070246913935989
+  saturation: 0.33044292056001723
+  rhythmicContrast: 0.12765723443590105
+purpose: []
